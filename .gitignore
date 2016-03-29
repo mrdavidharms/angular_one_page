@@ -11,3 +11,9 @@
 /log/*
 !/log/.keep
 /tmp
+*.sw*
+*~
+build/
+bin/
+node_modules/
+vendor/
