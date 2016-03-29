@@ -1,0 +1,19 @@
+<div>
+  <h1>Customer functions</h1>
+  <p>Soon this will show a list of all the customers, based on information from the server</p>
+</div>
+
+<div>
+  <table>
+    <thead>
+      <td>Name</td>
+      <td>Email</td>
+
+    </thead>
+    <tr ng-repeat="customer in customers">
+      <td>{{customer.name}}</td>
+      <td>{{customer.email}}</td>
+
+    </tr>
+  </table>
+</div>

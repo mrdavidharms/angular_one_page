@@ -1,7 +1,7 @@
 {
-  "author": "Josh David Miller",
-  "name": "ng-boilerplate",
-  "version": "0.3.1",
+  "author": "David Harms",
+  "name": "Angular Rails",
+  "version": "0.0.1",
   "homepage": "http://bit.ly/ng-boilerplate",
   "licenses": {
     "type": "MIT",
@@ -10,7 +10,7 @@
   "bugs": "https://github.com/joshdmiller/ng-boilerplate/issues",
   "repository": {
     "type": "git",
-    "url": "git@github.com:joshdmiller/ng-boilerplate.git"
+    "url": "https://github.com/mrdavidharms/angular_one_page"
   },
   "dependencies": {},
   "devDependencies": {
